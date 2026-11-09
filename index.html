@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="uz">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Beeloc Business</title>
+<script>
+  (function () {
+    var l = (navigator.language || "uz").slice(0, 2).toLowerCase();
+    var lang = l === "ru" ? "ru" : l === "en" ? "en" : "uz";
+    var base = location.pathname.indexOf("/beeloc-business/") === 0 ? "/beeloc-business/" : "/";
+    location.replace(base + lang + "/index.html");
+  })();
+</script>
+</head>
+<body>
+<main class="wrap">
+  <h1>Beeloc Business</h1>
+  <p><a href="uz/index.html">O'zbekcha</a> · <a href="ru/index.html">Русский</a> · <a href="en/index.html">English</a></p>
+</main>
+</body>
+</html>
