@@ -8,10 +8,10 @@ Ushbu siyosat "Beeloc Business" ilovasidagi pullik obuna uchun to'lov, avtomatik
 ## 1. Sotuvchi
 
 **YaTT Qo'shshayev Qahhor G'afurovich** ("Beeloc" brendi)
-STIR: [STIR]
-Manzil: [to'liq yuridik manzil]
+Davlat ro'yxatidan o'tkazilgan: 08.09.2025, ro'yxat raqami 7126941
+Manzil: Toshkent shahri, Yunusobod tumani, 14-mavze, 4-uy, 5-xonadon
 Email: quvonchbekgafurov07@gmail.com
-Telefon: [telefon]
+Telefon: +998 93 384 11 41
 
 ## 2. Obuna nima beradi
 
@@ -52,7 +52,7 @@ To'lov Atmos'ning himoyalangan sahifasida yoki Ilovada bog'langan karta orqali a
 
 - bir xil davr uchun takroran (ikki marta) pul yechilgan bo'lsa;
 - texnik xato sababli pul yechilgan, lekin obuna faollashmagan bo'lsa;
-- xizmat Operator aybi bilan 3 kundan ortiq to'liq ishlamagan bo'lsa — ishlamagan kunlar uchun mutanosib ravishda.
+- xizmat Operator aybi bilan 3 kundan ortiq to'liq ishlamagan bo'lsa - ishlamagan kunlar uchun mutanosib ravishda.
 
 6.2. Ko'p oylik (3, 6 yoki 12 oy) obunani muddatidan oldin bekor qilsangiz, to'liq foydalanilmagan oylar uchun summa qaytariladi. Joriy boshlangan oy uchun to'lov qaytarilmaydi.
 
@@ -72,4 +72,4 @@ To'lovlar tarixi Ilovadagi **To'lov va obuna** bo'limida ko'rsatiladi. Qonunchil
 
 ## 9. Aloqa
 
-To'lov bo'yicha savollar: quvonchbekgafurov07@gmail.com, [telefon].
+To'lov bo'yicha savollar: quvonchbekgafurov07@gmail.com, +998 93 384 11 41.

@@ -3,7 +3,7 @@
 Beeloc Business ilovasi bo'yicha yordam kerakmi? Odatda 2 ish kuni ichida javob beramiz.
 
 **Email:** quvonchbekgafurov07@gmail.com
-**Telefon:** [telefon]
+**Telefon:** +998 93 384 11 41
 
 ## Ko'p beriladigan savollar
 
@@ -17,7 +17,7 @@ Kirish ekranida "Parolni unutdingizmi?" tugmasini bosing, telefon raqamingizni k
 
 ### Nega biznesim yoki e'lonim "Ko'rib chiqilmoqda" holatida?
 
-Har bir biznes va e'lon talabalarga ko'rsatilishidan oldin jamoamiz tomonidan tekshiriladi. Odatda bu ko'p vaqt olmaydi. Rad etilsa, sababi biznes yoki e'lon ustida ko'rsatiladi — uni tuzatib, qayta yuborishingiz mumkin.
+Har bir biznes va e'lon talabalarga ko'rsatilishidan oldin jamoamiz tomonidan tekshiriladi. Odatda bu ko'p vaqt olmaydi. Rad etilsa, sababi biznes yoki e'lon ustida ko'rsatiladi - uni tuzatib, qayta yuborishingiz mumkin.
 
 ### Filial qo'shish yoki ish vaqtini o'zgartirish
 

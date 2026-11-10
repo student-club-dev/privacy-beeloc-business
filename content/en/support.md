@@ -3,7 +3,7 @@
 Need help with the Beeloc Business app? We usually reply within 2 business days.
 
 **Email:** quvonchbekgafurov07@gmail.com
-**Phone:** [phone]
+**Phone:** +998 93 384 11 41
 
 ## Frequently asked questions
 

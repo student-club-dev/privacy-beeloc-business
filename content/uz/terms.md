@@ -5,11 +5,11 @@
 
 ## 1. Umumiy qoidalar
 
-1.1. Ushbu Foydalanish shartlari (keyingi o'rinlarda — **Shartlar**) "Beeloc Business" mobil ilovasi (keyingi o'rinlarda — **Ilova**) va u orqali ko'rsatiladigan xizmatlardan foydalanish tartibini belgilaydi. Shartlar ommaviy oferta hisoblanadi.
+1.1. Ushbu Foydalanish shartlari (keyingi o'rinlarda - **Shartlar**) "Beeloc Business" mobil ilovasi (keyingi o'rinlarda - **Ilova**) va u orqali ko'rsatiladigan xizmatlardan foydalanish tartibini belgilaydi. Shartlar ommaviy oferta hisoblanadi.
 
-1.2. Ilova egasi va operatori: **YaTT Qo'shshayev Qahhor G'afurovich** ("Beeloc" brendi), STIR: [STIR], manzil: [to'liq yuridik manzil], email: quvonchbekgafurov07@gmail.com, telefon: [telefon] (keyingi o'rinlarda — **Biz** yoki **Operator**).
+1.2. Ilova egasi va operatori: **YaTT Qo'shshayev Qahhor G'afurovich** ("Beeloc" brendi), davlat ro'yxatidan o'tkazilgan: 08.09.2025, ro'yxat raqami 7126941, manzil: Toshkent shahri, Yunusobod tumani, 14-mavze, 4-uy, 5-xonadon, email: quvonchbekgafurov07@gmail.com, telefon: +998 93 384 11 41 (keyingi o'rinlarda - **Biz** yoki **Operator**).
 
-1.3. Ilovadan foydalanuvchi tadbirkor, uning vakili yoki xodimi (keyingi o'rinlarda — **Siz** yoki **Foydalanuvchi**) hisoblanadi.
+1.3. Ilovadan foydalanuvchi tadbirkor, uning vakili yoki xodimi (keyingi o'rinlarda - **Siz** yoki **Foydalanuvchi**) hisoblanadi.
 
 1.4. Ro'yxatdan o'tishda "Foydalanish shartlari va Maxfiylik siyosatiga roziman" katagini belgilash orqali Siz ushbu Shartlarni, Maxfiylik siyosatini va To'lov va qaytarish siyosatini to'liq qabul qilasiz (ofertaning aksepti). Rozi bo'lmasangiz, Ilovadan foydalanmang.
 
@@ -17,7 +17,7 @@
 
 2.1. Ilova orqali Siz biznesingizni ro'yxatdan o'tkazasiz, filiallar va ish vaqtini ko'rsatasiz, talabalar uchun chegirma e'lonlari va ish e'lonlarini joylaysiz, chegirmadan foydalanishni (kod orqali) tasdiqlaysiz va statistikani ko'rasiz.
 
-2.2. Joylangan e'lonlar bizning talabalar uchun ilovamizda ko'rsatiladi. Talaba va biznes o'rtasidagi savdo yoki xizmat ko'rsatish munosabati bevosita Siz bilan talaba o'rtasida yuzaga keladi — Operator bu munosabatning tarafi emas.
+2.2. Joylangan e'lonlar bizning talabalar uchun ilovamizda ko'rsatiladi. Talaba va biznes o'rtasidagi savdo yoki xizmat ko'rsatish munosabati bevosita Siz bilan talaba o'rtasida yuzaga keladi - Operator bu munosabatning tarafi emas.
 
 2.3. Xizmatning ayrim qismlari pullik obuna asosida taqdim etiladi. Narx, to'lov va qaytarish tartibi **To'lov va qaytarish siyosati**da belgilangan va u ushbu Shartlarning ajralmas qismi hisoblanadi.
 
@@ -109,5 +109,5 @@ Quyidagilar taqiqlanadi:
 
 **YaTT Qo'shshayev Qahhor G'afurovich** ("Beeloc")
 Email: quvonchbekgafurov07@gmail.com
-Telefon: [telefon]
-Manzil: [to'liq yuridik manzil]
+Telefon: +998 93 384 11 41
+Manzil: Toshkent shahri, Yunusobod tumani, 14-mavze, 4-uy, 5-xonadon

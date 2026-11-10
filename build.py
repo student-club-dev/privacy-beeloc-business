@@ -26,8 +26,8 @@ UI = {
         "html_lang": "uz",
         "brand": "Beeloc Business",
         "tagline": "Huquqiy hujjatlar va yordam",
-        "home_title": "Beeloc Business — hujjatlar",
-        "home_lead": "Beeloc Business — tadbirkorlar uchun biznes, talabalarga chegirma va ish e'lonlarini joylash ilovasi. Bu yerda ilovadan foydalanish qoidalari, ma'lumotlaringiz qanday himoyalanishi va to'lov tartibi bilan tanishishingiz mumkin.",
+        "home_title": "Beeloc Business - hujjatlar",
+        "home_lead": "Beeloc Business - tadbirkorlar uchun biznes, talabalarga chegirma va ish e'lonlarini joylash ilovasi. Bu yerda ilovadan foydalanish qoidalari, ma'lumotlaringiz qanday himoyalanishi va to'lov tartibi bilan tanishishingiz mumkin.",
         "nav": {"terms": "Foydalanish shartlari", "privacy": "Maxfiylik siyosati", "payment": "To'lov va qaytarish", "support": "Yordam"},
         "desc": {
             "terms": "Ilovadan foydalanish qoidalari, kontentga talablar, javobgarlik.",
@@ -44,8 +44,8 @@ UI = {
         "html_lang": "ru",
         "brand": "Beeloc Business",
         "tagline": "Правовые документы и поддержка",
-        "home_title": "Beeloc Business — документы",
-        "home_lead": "Beeloc Business — приложение для предпринимателей: размещение бизнеса, скидок для студентов и вакансий. Здесь собраны правила использования, сведения о защите ваших данных и порядок оплаты.",
+        "home_title": "Beeloc Business - документы",
+        "home_lead": "Beeloc Business - приложение для предпринимателей: размещение бизнеса, скидок для студентов и вакансий. Здесь собраны правила использования, сведения о защите ваших данных и порядок оплаты.",
         "nav": {"terms": "Условия использования", "privacy": "Политика конфиденциальности", "payment": "Оплата и возврат", "support": "Поддержка"},
         "desc": {
             "terms": "Правила использования, требования к контенту, ответственность.",
@@ -62,7 +62,7 @@ UI = {
         "html_lang": "en",
         "brand": "Beeloc Business",
         "tagline": "Legal documents and support",
-        "home_title": "Beeloc Business — documents",
+        "home_title": "Beeloc Business - documents",
         "home_lead": "Beeloc Business is an app for business owners to publish their business, student discounts and job postings. Here you can read the rules for using the app, how your data is protected and how payments work.",
         "nav": {"terms": "Terms of Use", "privacy": "Privacy Policy", "payment": "Payment and Refunds", "support": "Support"},
         "desc": {
@@ -243,7 +243,7 @@ def build():
             title, body, toc = render((CONTENT / lang / f"{d}.md").read_text(encoding="utf-8"))
             alts = {l: f"{l}/{d}.html" for l in LANGS}
             (out / f"{d}.html").write_text(
-                page(lang, d, f"{title} — Beeloc Business", doc_body(lang, title, body, toc), "../", alts, UI[lang]["desc"][d]),
+                page(lang, d, f"{title} - Beeloc Business", doc_body(lang, title, body, toc), "../", alts, UI[lang]["desc"][d]),
                 encoding="utf-8")
             written.append(f"{lang}/{d}.html")
         alts = {l: f"{l}/index.html" for l in LANGS}
@@ -255,7 +255,7 @@ def build():
         title, body, toc = render((CONTENT / lang / f"{d}.md").read_text(encoding="utf-8"))
         alts = {l: f"{l}/{d}.html" for l in LANGS}
         (ROOT / name).write_text(
-            page(lang, d, f"{title} — Beeloc Business", doc_body(lang, title, body, toc), "", alts, UI[lang]["desc"][d]),
+            page(lang, d, f"{title} - Beeloc Business", doc_body(lang, title, body, toc), "", alts, UI[lang]["desc"][d]),
             encoding="utf-8")
         written.append(name)
 

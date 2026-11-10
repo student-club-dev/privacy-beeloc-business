@@ -8,10 +8,10 @@ This policy sets out how payment, auto-renewal and refunds work for the paid sub
 ## 1. Seller
 
 **Sole proprietor Qo'shshayev Qahhor G'afurovich** (the "Beeloc" brand)
-Taxpayer ID (STIR): [STIR]
-Address: [full legal address]
+State registration: 8 September 2025, No. 7126941
+Address: Apt. 5, Bldg. 4, Block 14, Yunusabad District, Tashkent, Uzbekistan
 Email: quvonchbekgafurov07@gmail.com
-Phone: [phone]
+Phone: +998 93 384 11 41
 
 ## 2. What the subscription includes
 
@@ -52,7 +52,7 @@ You pay on Atmos's secure page or with a card linked in the App. Card details ar
 
 - you were charged twice for the same period;
 - you were charged because of a technical error but the subscription was not activated;
-- the service was completely unavailable for more than 3 days through the Operator's fault — pro rata for the days it was down.
+- the service was completely unavailable for more than 3 days through the Operator's fault - pro rata for the days it was down.
 
 6.2. If you cancel a multi-month subscription (3, 6 or 12 months) early, we refund the months not yet started. The current month that has already started is not refunded.
 
@@ -72,4 +72,4 @@ Your payment history is shown in **Billing and subscription** in the App. An ele
 
 ## 9. Contact
 
-Payment questions: quvonchbekgafurov07@gmail.com, [phone].
+Payment questions: quvonchbekgafurov07@gmail.com, +998 93 384 11 41.

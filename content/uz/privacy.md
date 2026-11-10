@@ -1,19 +1,21 @@
 # Maxfiylik siyosati
 
-**Oxirgi yangilanish:** 2026-yil 9-noyabr
-**Versiya:** 2.0
+**Oxirgi yangilanish:** 2026-yil 10-noyabr
+**Versiya:** 2.1
 
-Ushbu siyosat "Beeloc Business" mobil ilovasi (keyingi o'rinlarda — **Ilova**) qanday shaxsga doir ma'lumotlarni yig'ishi, ulardan nima maqsadda foydalanishi, qanday himoya qilishi va Sizning huquqlaringizni tushuntiradi. Ilova o'z biznesini, chegirma va ish e'lonlarini joylaydigan tadbirkorlar uchun mo'ljallangan.
+Ushbu siyosat "Beeloc Business" mobil ilovasi (keyingi o'rinlarda - **Ilova**) qanday shaxsga doir ma'lumotlarni yig'ishi, ulardan nima maqsadda foydalanishi, qanday himoya qilishi va Sizning huquqlaringizni tushuntiradi. Ilova o'z biznesini, chegirma va ish e'lonlarini joylaydigan tadbirkorlar uchun mo'ljallangan.
+
+Siyosat xaridorlar uchun mo'ljallangan **"Beeloc"** ilovasiga ham tegishli. Unga oid xususiyatlar 2.6-bandda keltirilgan.
 
 Ma'lumotlarni qayta ishlash O'zbekiston Respublikasining "Shaxsga doir ma'lumotlar to'g'risida"gi Qonuni va boshqa qonunchilik hujjatlariga muvofiq amalga oshiriladi.
 
 ## 1. Ma'lumotlar operatori
 
-**YaTT Qo'shshayev Qahhor G'afurovich** ("Beeloc" brendi, keyingi o'rinlarda — **Biz** yoki **Operator**)
-STIR: [STIR]
-Manzil: [to'liq yuridik manzil]
+**YaTT Qo'shshayev Qahhor G'afurovich** ("Beeloc" brendi, keyingi o'rinlarda - **Biz** yoki **Operator**)
+Davlat ro'yxatidan o'tkazilgan: 08.09.2025, ro'yxat raqami 7126941
+Manzil: Toshkent shahri, Yunusobod tumani, 14-mavze, 4-uy, 5-xonadon
 Email: quvonchbekgafurov07@gmail.com
-Telefon: [telefon]
+Telefon: +998 93 384 11 41
 
 ## 2. Qanday ma'lumotlarni yig'amiz
 
@@ -36,17 +38,29 @@ Obuna to'lovi litsenziyalangan to'lov tashkiloti **Atmos** orqali amalga oshiril
 
 ### 2.3. Joylashuv
 
-Ilova joylashuvingizni faqat xarita ekranida, Siz "Mening joylashuvim" tugmasini bosganingizda va ruxsat berganingizdan keyin so'raydi. Bu **ixtiyoriy**: nuqtani xaritani surib ham belgilash mumkin. Biz joylashuvni fon rejimida kuzatmaymiz va saqlamaymiz — faqat Siz saqlagan filial koordinatalari saqlanadi. Ruxsatni istalgan vaqtda qurilma sozlamalaridan bekor qilishingiz mumkin.
+Ilova joylashuvingizni faqat xarita ekranida, Siz "Mening joylashuvim" tugmasini bosganingizda va ruxsat berganingizdan keyin so'raydi. Bu **ixtiyoriy**: nuqtani xaritani surib ham belgilash mumkin. Biz joylashuvni fon rejimida kuzatmaymiz va saqlamaymiz - faqat Siz saqlagan filial koordinatalari saqlanadi. Ruxsatni istalgan vaqtda qurilma sozlamalaridan bekor qilishingiz mumkin.
 
 ### 2.4. Rasmlar
 
-Ilova tizimning rasm tanlash oynasidan foydalanadi va butun galereyangizga kirish huquqini olmaydi — faqat Siz tanlagan rasmlarga kiradi.
+Ilova tizimning rasm tanlash oynasidan foydalanadi va butun galereyangizga kirish huquqini olmaydi - faqat Siz tanlagan rasmlarga kiradi.
 
 ### 2.5. Texnik ma'lumotlar
 
 Xizmat ishlashi va xavfsizligi uchun: kirish sessiyasi tokeni, qurilma nomi, platforma va ilova versiyasi (faol qurilmalar ro'yxatini ko'rsatish uchun), so'rov vaqti, IP manzil va xatoliklar haqidagi texnik yozuvlar.
 
 Biz reklama identifikatorlaridan, uchinchi tomon reklama yoki analitika SDK'laridan foydalanmaymiz va Sizni boshqa kompaniyalarning ilova va saytlarida kuzatmaymiz.
+
+### 2.6. Beeloc ilovasi (xaridorlar uchun)
+
+Beeloc ilovasidan foydalanganingizda quyidagi ma'lumotlar yig'iladi:
+
+- **Telefon raqami** - hisobga kirish va SMS kod bilan tasdiqlash uchun;
+- **Ism va profil surati** (surat ixtiyoriy) - profilingizni ko'rsatish uchun;
+- **Saqlangan takliflar** - ularni hisobingizga bog'lab, qurilmalaringiz o'rtasida sinxronlash uchun;
+- **Chegirmadan foydalanish yozuvlari** (qaysi biznesda, qaysi taklif, qachon) - chegirma kodini biznes tomonidan tasdiqlash va statistika uchun;
+- 2.5-bandda ko'rsatilgan texnik ma'lumotlar.
+
+Yaqinda ko'rilgan takliflar faqat qurilmangizda saqlanadi va internet bo'lmaganda ham ko'rish uchun ishlatiladi. Joylashuv va rasmlar bo'yicha 2.3 va 2.4-bandlardagi qoidalar Beeloc ilovasiga ham amal qiladi.
 
 ## 3. Ma'lumotlardan foydalanish maqsadlari va asoslari
 
@@ -64,36 +78,38 @@ Biz reklama identifikatorlaridan, uchinchi tomon reklama yoki analitika SDK'lari
 
 ## 4. Boshqalarga nima ko'rinadi
 
-Moderatsiyadan o'tgandan keyin biznes nomi, turi, filiallari, ish vaqti, rasmlari, narxlari, chegirma shartlari va e'lon uchun Siz kiritgan aloqa raqami bizning talabalar uchun ilovamiz foydalanuvchilariga **ochiq ko'rinadi**. Shaxsiy telefon raqamingiz, emailingiz va parolingiz e'lonlarda ko'rsatilmaydi.
+Moderatsiyadan o'tgandan keyin biznes nomi, turi, filiallari, ish vaqti, rasmlari, narxlari, chegirma shartlari va e'lon uchun Siz kiritgan aloqa raqami Beeloc ilovasi foydalanuvchilariga **ochiq ko'rinadi**. Shaxsiy telefon raqamingiz, emailingiz va parolingiz e'lonlarda ko'rsatilmaydi.
 
 ## 5. Ma'lumotlar kimga uzatiladi
 
 Biz ma'lumotlaringizni **sotmaymiz** va reklama maqsadida boshqalarga bermaymiz. Ma'lumot faqat xizmatni ko'rsatish uchun zarur hajmda quyidagilarga uzatiladi:
 
-- **Eskiz** (O'zbekiston) — SMS tasdiqlash kodlarini yuborish uchun: telefon raqami va SMS matni;
-- **Atmos** (O'zbekiston) — to'lovlarni qabul qilish va kartani saqlash uchun: karta ma'lumotlari, to'lov summasi;
-- **Hosting provayderi** ([provayder nomi]) — serverlarni ishlatish uchun;
-- **Xarita xizmatlari** — OpenFreeMap / CARTO (xarita tasvirlari) va OpenStreetMap Nominatim (manzil qidiruvi): ular IP manzilingiz va qidirilgan joy yoki koordinatalarni oladi;
-- **Vakolatli davlat organlari** — faqat qonunda belgilangan tartibda so'rov bo'lganda.
+- **Eskiz** (O'zbekiston) - SMS tasdiqlash kodlarini yuborish uchun: telefon raqami va SMS matni;
+- **Atmos** (O'zbekiston) - to'lovlarni qabul qilish va kartani saqlash uchun: karta ma'lumotlari, to'lov summasi;
+- **Hetzner Online GmbH** (Germaniya) - serverlarimiz joylashgan hosting provayderi;
+- **Xarita xizmatlari** - OpenFreeMap / CARTO (xarita tasvirlari) va OpenStreetMap Nominatim (manzil qidiruvi): ular IP manzilingiz va qidirilgan joy yoki koordinatalarni oladi;
+- **Vakolatli davlat organlari** - faqat qonunda belgilangan tartibda so'rov bo'lganda.
 
 ## 6. Ma'lumotlar qayerda saqlanadi
 
-Ma'lumotlar [O'zbekiston Respublikasi hududidagi] serverlarda saqlanadi. Xarita xizmatlari O'zbekistondan tashqarida joylashgan; ularga faqat xarita va manzil qidiruvi uchun zarur bo'lgan minimal ma'lumot uzatiladi.
+Ma'lumotlar Hetzner Online GmbH kompaniyasining Germaniyadagi (Nürnberg shahri) data-markazida joylashgan serverlarda saqlanadi. Germaniya Yevropa Ittifoqi davlati bo'lib, u yerda shaxsga doir ma'lumotlarni himoya qilish bo'yicha qat'iy talablar (GDPR) amal qiladi. Ilovadan foydalanish orqali Siz ma'lumotlaringiz shu tarzda O'zbekistondan tashqarida saqlanishi va qayta ishlanishiga rozilik bildirasiz.
+
+Xarita xizmatlari ham O'zbekistondan tashqarida joylashgan; ularga faqat xarita va manzil qidiruvi uchun zarur bo'lgan minimal ma'lumot uzatiladi.
 
 ## 7. Qancha muddat saqlanadi
 
-- **Hisob ma'lumotlari** — hisob faol bo'lgan davrda;
-- **Hisob o'chirilgandan keyin** — ma'lumotlar 30 kun ichida o'chiriladi yoki anonimlashtiriladi;
-- **To'lov va buxgalteriya yozuvlari** — qonunda belgilangan muddatda;
-- **Texnik jurnallar (loglar)** — 90 kungacha.
+- **Hisob ma'lumotlari** - hisob faol bo'lgan davrda;
+- **Hisob o'chirilgandan keyin** - ma'lumotlar 30 kun ichida o'chiriladi yoki anonimlashtiriladi;
+- **To'lov va buxgalteriya yozuvlari** - qonunda belgilangan muddatda;
+- **Texnik jurnallar (loglar)** - 90 kungacha.
 
 ## 8. Sizning huquqlaringiz
 
-- **Bilish** — qanday ma'lumotlaringiz saqlanayotganini so'rash;
-- **Tuzatish** — noto'g'ri ma'lumotni Ilova profilida yoki murojaat orqali o'zgartirish;
-- **O'chirish** — hisobingizni va unga bog'liq ma'lumotlarni o'chirish;
-- **Rozilikni qaytarib olish** — masalan, joylashuv ruxsatini bekor qilish;
-- **Shikoyat qilish** — vakolatli davlat organiga murojaat qilish.
+- **Bilish** - qanday ma'lumotlaringiz saqlanayotganini so'rash;
+- **Tuzatish** - noto'g'ri ma'lumotni Ilova profilida yoki murojaat orqali o'zgartirish;
+- **O'chirish** - hisobingizni va unga bog'liq ma'lumotlarni o'chirish;
+- **Rozilikni qaytarib olish** - masalan, joylashuv ruxsatini bekor qilish;
+- **Shikoyat qilish** - vakolatli davlat organiga murojaat qilish.
 
 So'rovlarga 10 ish kuni ichida javob beramiz.
 
@@ -101,12 +117,14 @@ So'rovlarga 10 ish kuni ichida javob beramiz.
 
 Ilovada: **Sozlamalar → Hisobni o'chirish**. Hisobingizning tasdiqlangan raqamiga SMS kod yuboriladi; kodni kiritganingizdan keyin hisob, bizneslar, e'lonlar, ish e'lonlari, rasmlar va saqlangan kartalar o'chiriladi. Ilovaga kira olmasangiz, quvonchbekgafurov07@gmail.com manziliga "Hisobni o'chirish" mavzusida hisob telefon raqamini yozib yuboring. O'chirishni qaytarib bo'lmaydi.
 
+Beeloc ilovasidagi hisobingizni o'chirish uchun ham shu email manziliga hisob telefon raqamini yozib yuborishingiz mumkin.
+
 ## 9. Xavfsizlik
 
 Ma'lumotlaringizni himoya qilish uchun quyidagi choralarni qo'llaymiz:
 
 - Ilova va server o'rtasidagi barcha aloqa **HTTPS** orqali shifrlanadi; ilova server sertifikatini qo'shimcha tekshiradi (certificate pinning);
-- Parollar ochiq ko'rinishda saqlanmaydi — faqat bir tomonlama xesh;
+- Parollar ochiq ko'rinishda saqlanmaydi - faqat bir tomonlama xesh;
 - Kirish tokeni qurilmaning himoyalangan xotirasida (Android Keystore, iOS Keychain) shifrlangan holda saqlanadi;
 - Qurilmadagi kesh bazasi shifrlangan; hisobdan chiqqanda token va kesh tozalanadi;
 - Muhim amallar (ro'yxatdan o'tish, parolni tiklash, hisobni o'chirish) SMS kod bilan tasdiqlanadi;
@@ -119,7 +137,11 @@ Xavfsizlik zaifligini topsangiz, iltimos, quvonchbekgafurov07@gmail.com manzilig
 
 ## 10. Bolalar
 
-Ilova 18 yoshga to'lmagan shaxslarga mo'ljallanmagan. Voyaga yetmagan shaxsning ma'lumoti yig'ilgani aniqlansa, u o'chiriladi.
+Beeloc Business ilovasi 18 yoshga to'lmagan shaxslarga mo'ljallanmagan.
+
+Beeloc ilovasi 13 yoshga to'lmagan bolalarga mo'ljallanmagan. 18 yoshga to'lmagan foydalanuvchilar ilovadan ota-onasi yoki qonuniy vakilining roziligi bilan foydalanadi.
+
+Belgilangan yoshga to'lmagan shaxsning ma'lumoti roziliksiz yig'ilgani aniqlansa, u o'chiriladi.
 
 ## 11. Siyosatga o'zgartirishlar
 
@@ -129,5 +151,5 @@ Siyosat yangilanishi mumkin. Muhim o'zgarishlar haqida Ilova orqali oldindan xab
 
 **YaTT Qo'shshayev Qahhor G'afurovich** ("Beeloc")
 Email: quvonchbekgafurov07@gmail.com
-Telefon: [telefon]
-Manzil: [to'liq yuridik manzil]
+Telefon: +998 93 384 11 41
+Manzil: Toshkent shahri, Yunusobod tumani, 14-mavze, 4-uy, 5-xonadon

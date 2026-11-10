@@ -7,7 +7,7 @@
 
 1.1. These Terms of Use (the **Terms**) govern the use of the **Beeloc Business** mobile app (the **App**) and the services provided through it. The Terms are a public offer.
 
-1.2. The App is owned and operated by **Sole proprietor Qo'shshayev Qahhor G'afurovich** (the "Beeloc" brand), Taxpayer ID (STIR): [STIR], address: [full legal address], email: quvonchbekgafurov07@gmail.com, phone: [phone] (**we**, **us** or the **Operator**).
+1.2. The App is owned and operated by **Sole proprietor Qo'shshayev Qahhor G'afurovich** (the "Beeloc" brand), state registration of 8 September 2025, No. 7126941, address: Apt. 5, Bldg. 4, Block 14, Yunusabad District, Tashkent, Uzbekistan, email: quvonchbekgafurov07@gmail.com, phone: +998 93 384 11 41 (**we**, **us** or the **Operator**).
 
 1.3. The user of the App is a business owner, their representative or employee (**you** or the **User**).
 
@@ -17,7 +17,7 @@
 
 2.1. In the App you register your business, add branches and working hours, publish discounts for students and job postings, confirm discount redemptions (by code) and view statistics.
 
-2.2. Published listings are shown in our student app. Any sale or service relationship arises directly between you and the student — the Operator is not a party to it.
+2.2. Published listings are shown in our student app. Any sale or service relationship arises directly between you and the student - the Operator is not a party to it.
 
 2.3. Some parts of the service are provided under a paid subscription. Prices, payment and refunds are governed by the **Payment and Refund Policy**, which forms an integral part of these Terms.
 
@@ -109,5 +109,5 @@ You must not:
 
 **Sole proprietor Qo'shshayev Qahhor G'afurovich** ("Beeloc")
 Email: quvonchbekgafurov07@gmail.com
-Phone: [phone]
-Address: [full legal address]
+Phone: +998 93 384 11 41
+Address: Apt. 5, Bldg. 4, Block 14, Yunusabad District, Tashkent, Uzbekistan
