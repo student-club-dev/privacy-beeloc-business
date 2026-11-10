@@ -92,7 +92,7 @@ Biz ma'lumotlaringizni **sotmaymiz** va reklama maqsadida boshqalarga bermaymiz.
 
 ## 6. Ma'lumotlar qayerda saqlanadi
 
-Ma'lumotlar Hetzner Online GmbH kompaniyasining Germaniyadagi (Nürnberg shahri) data-markazida joylashgan serverlarda saqlanadi. Germaniya Yevropa Ittifoqi davlati bo'lib, u yerda shaxsga doir ma'lumotlarni himoya qilish bo'yicha qat'iy talablar (GDPR) amal qiladi. Ilovadan foydalanish orqali Siz ma'lumotlaringiz shu tarzda O'zbekistondan tashqarida saqlanishi va qayta ishlanishiga rozilik bildirasiz.
+Ma'lumotlar Hetzner Online GmbH kompaniyasining Germaniyadagi (Nürnberg shahri) serverlarida saqlanadi. Ilovadan foydalanish orqali Siz ma'lumotlaringiz shu tarzda O'zbekistondan tashqarida saqlanishi va qayta ishlanishiga rozilik bildirasiz.
 
 Xarita xizmatlari ham O'zbekistondan tashqarida joylashgan; ularga faqat xarita va manzil qidiruvi uchun zarur bo'lgan minimal ma'lumot uzatiladi.
 

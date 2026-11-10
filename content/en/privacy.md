@@ -92,7 +92,7 @@ We **do not sell** your data or share it for advertising. Data is shared only as
 
 ## 6. Where data is stored
 
-Data is stored on servers in a Hetzner Online GmbH data centre in Nuremberg, Germany. Germany is a member of the European Union, where strict personal data protection rules (GDPR) apply. By using the App, you agree that your data is stored and processed outside Uzbekistan in this way.
+Data is stored on Hetzner Online GmbH servers in Nuremberg, Germany. By using the App, you agree that your data is stored and processed outside Uzbekistan in this way.
 
 Map services are also located outside Uzbekistan; they receive only the minimum data needed to show the map and search addresses.
 

@@ -276,7 +276,7 @@ ROOT_INDEX = """<!doctype html>
   (function () {
     var l = (navigator.language || "uz").slice(0, 2).toLowerCase();
     var lang = l === "ru" ? "ru" : l === "en" ? "en" : "uz";
-    var base = location.pathname.indexOf("/beeloc-business/") === 0 ? "/beeloc-business/" : "/";
+    var base = /github\.io$/.test(location.hostname) ? "/" + location.pathname.split("/")[1] + "/" : "/";
     location.replace(base + lang + "/index.html");
   })();
 </script>
